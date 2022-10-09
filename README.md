@@ -1,2 +1,2 @@
-# Let-s-Code
-Curso online de programação
+# Let's Code
+### Curso online de programação
